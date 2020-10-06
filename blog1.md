@@ -25,18 +25,33 @@ From here, I was able to run the basic functions of Haskell, such as basic mathe
 Below is some example code and how it looks/functions in Haskell.
 
 >Prelude> 2+2
+>
 >4
+>
 >Prelude> 2+2
+>
 >4
+>
 >Prelude> 3*3
+>
 >9
+>
 >Prelude> a=2
+>
 >Prelude> b=4
+>
 >Prelude> a
+>
 >2
+>
 >Prelude> b
+>
 >4
+>
 >Prelude> a+b
+>
 >6
+>
 >Prelude> a-3
+>
 >-1
