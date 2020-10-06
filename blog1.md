@@ -21,6 +21,22 @@ Which then caused the following lines to appear:
 >GHCi, version 8.8.4: https://www.haskell.org/ghc/  :? for help
 >Prelude>
 
-From here, I was able to run the basic functions of Haskell, such as basic mathematical functions (addition "+", subtraction "-", division "/" and multiplication "\*"
+From here, I was able to run the basic functions of Haskell, such as basic mathematical functions (addition "+", subtraction "-", division "/" and multiplication "\*") and variable assignment (a=2, b=3, a+b will return 5).
+Below is some example code and how it looks/functions in Haskell.
 
-this is a test
+>Prelude> 2+2
+>4
+>Prelude> 2+2
+>4
+>Prelude> 3*3
+>9
+>Prelude> a=2
+>Prelude> b=4
+>Prelude> a
+>2
+>Prelude> b
+>4
+>Prelude> a+b
+>6
+>Prelude> a-3
+>-1
