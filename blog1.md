@@ -22,3 +22,5 @@ Which then caused the following lines to appear:
 >Prelude>
 
 From here, I was able to run the basic functions of Haskell, such as basic mathematical functions (addition "+", subtraction "-", division "/" and multiplication "*"
+
+this is a test
