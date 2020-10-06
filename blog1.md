@@ -1,4 +1,4 @@
-# Haskell for Beginners
+# Installing Haskell
 ## Blog 1 - 10/05/20
 
 When I first installed Haskell on my computer, it didn't go as smooth as expected. Unlike many of the programming languages I had used in the past, I was told to run the installation command from the terminal of my computer.  
