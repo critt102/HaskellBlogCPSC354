@@ -18,7 +18,7 @@ Unfortunately, you can't launch the install directly from that folder, but calli
 
 Which then caused the following lines to appear:
 
->GHCi, version 8.8.4: https://www.haskell.org/ghc/  :? for help
+>GHCi, version 8.8.4: https://www.haskell.org/ghc/  :? for help  
 >Prelude>
 
 From here, I was able to run the basic functions of Haskell, such as basic mathematical functions (addition "+", subtraction "-", division "/" and multiplication "\*") and variable assignment (a=2, b=3, a+b will return 5).
