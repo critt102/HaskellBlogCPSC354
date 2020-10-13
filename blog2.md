@@ -20,10 +20,12 @@ By default, that box is checked, which means that when I save my file as file.hs
 
 From here, I decided I would no longer use TextEdit. This makes all my work and research seem a bit redundant, but what I realized is that programs like Atom and Visual Studio codes were just other types of text editors, like TextEdit, but I was more familiar with their formatting and they work well with writing code. So since then, I have been using Atom, and can write .hs files, and .md files like this one and save them with ease.
 
+I definitely reccommend Atom. It is free and easy to use, and it works not only as a text editor, but it interfaces with your computer terminal so you can load and run files right from Atom's interface. You can download Atom at https://atom.io.
+
 ### Loading Files into Haskell
 When it comes to loading files into Haskell, there is a few steps that need to be taken before doing so. First, open Terminal (or Command Prompt if you are a Windows user). Then figure out where you file you want to load is saved. I personally keep all my .hs files in a folder on my desktop. In terminal, use the "cd" function to get your terminal into the folder where your file is located. If you do not direct your terminal to the right location before attempting to load a file, it will return an error.
 
-><no location info>: error: can't find file: len.hs  
+>\<no location info\>: error: can't find file: len.hs  
 >Failed, no modules loaded.
 
 So instead, cd into the folder where your files are located, and use "ls" to double check that you are in the right folder and can see the file you want to load. For example:
