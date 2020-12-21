@@ -14,8 +14,8 @@ In my research learning about the basics of Haskell, I found a lot of informatio
 > -    -ex. [9,10,11,12,13] !! 1 returns 10
 > - Comparing lists using <, >, <=, >= - look at first object in each list to determine True or False
 > -    -if the first objects are equal, then it will look at the second, and so on
-> - 
-> - ### List Functions
+> -
+> ### List Functions
 > - head - returns first element of list
 > -    -if list is empty, there will be an error
 > - last - returns last element
@@ -35,8 +35,8 @@ In my research learning about the basics of Haskell, I found a lot of informatio
 > -    -ex. [1..20] will create a list with elements 1 through 20
 > -    -can also specify a step (only one step), ex. [3,6..20] will return all elements that are multiples of three, so [3,6,9,12,15,18] (notice it doesn’t include 20)
 > -    -decimals can cause issues with ranges, so best to not use them
-> -
-> - ###Infinite lists
+>
+> ### Infinite lists
 > - take and .. - get a certain number of multiples
 > -    -ex. take 24 [13, 26] will give you the first 24 multiples of 13 in a list
 > - cycle - takes a list and cycles it infinitely, use take to cut it off somewhere
