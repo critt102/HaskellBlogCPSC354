@@ -3,6 +3,7 @@
 
 In my research learning about the basics of Haskell, I found a lot of information about lists. Lists are an important function in any coding language, so it is important to have knowledge of how lists function in Haskell, and the different functions that can be applied to lists. This is a summary of the information I found about lists in Haskell.
 
+> ### Lists
 > - Lists are homogenous, so they can only contain items of one data type
 > - ++ - concatenates a list
 > -    -ex. [1,2,3,4] ++ [9,10,11] will return [1,2,3,4,9,10,11]
@@ -14,7 +15,7 @@ In my research learning about the basics of Haskell, I found a lot of informatio
 > -    -ex. [9,10,11,12,13] !! 1 returns 10
 > - Comparing lists using <, >, <=, >= - look at first object in each list to determine True or False
 > -    -if the first objects are equal, then it will look at the second, and so on
-> -
+>
 > ### List Functions
 > - head - returns first element of list
 > -    -if list is empty, there will be an error
@@ -37,7 +38,7 @@ In my research learning about the basics of Haskell, I found a lot of informatio
 > -    -decimals can cause issues with ranges, so best to not use them
 >
 > ### Infinite lists
-> - take and .. - get a certain number of multiples
+> - take / .. - get a certain number of multiples
 > -    -ex. take 24 [13, 26] will give you the first 24 multiples of 13 in a list
 > - cycle - takes a list and cycles it infinitely, use take to cut it off somewhere
 > - repeat - produces an infinite list of a single element, use take to cut it off
