@@ -8,7 +8,7 @@ Whenever I am trying to learn how to code in a new language, I try to make sure 
 > - == - tests equality
 > - /= - tests “is not equal to”
 > - succ- returns successor if it is defined
-> -    ex. succ 8 returns 9
+>      ex. succ 8 returns 9
 > - min/max- takes two things and returns the min (smallest) or max (largest) of the two
 > - infix function- placed between two items with backticks ` ` to make order clearer
 > -    ex. 92 `div` 10 returns 9
