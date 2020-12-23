@@ -1,6 +1,8 @@
 # ARS Exercise
 ## Blog 6
 
+# Question
+
 *Consider the rewrite rules*
 
 > ab -> cc
@@ -11,6 +13,7 @@
 
 *plus rules saying that the order of letters does not matter. Starting from 15 `a`, 14 `b` and 13 `c`, is it possible to reach a configuration in which there are only `a`s or only `b`s or only `c`s?*
 
+# My Work
 > aaaaaaaaaaaaaaabbbbbbbbbbbbbbccccccccccccc - 15 `a`s, 14 `b`s, 13 `c`s
 
 
