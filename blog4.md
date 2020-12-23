@@ -3,7 +3,7 @@
 
 In my research learning about the basics of Haskell, I found a lot of information about lists. Lists are an important function in any coding language, so it is important to have knowledge of how lists function in Haskell, and the different functions that can be applied to lists. This is a summary of the information I found about lists in Haskell.
 
-> ### Lists
+> ### Lists 
 > - Lists are homogenous, so they can only contain items of one data type
 > - ++ - concatenates a list
 > -    -ex. [1,2,3,4] ++ [9,10,11] will return [1,2,3,4,9,10,11]

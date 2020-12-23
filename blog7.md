@@ -3,7 +3,7 @@
 
 Article: [Haskell, the Language Most Likely to Change the Way you Think About Programming](https://www.huffpost.com/entry/haskell-the-language-most_b_4242119)
 
----
+--- 
 
 When I was first learning about Haskell, I was confused by it.
 In school, I had learned mostly about imperative coding languages.

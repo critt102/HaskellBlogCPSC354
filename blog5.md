@@ -4,7 +4,7 @@
 Let me start by giving a formal definition of an Abstract Reduction System (ARS).
 
 **ARS**: a set `A` together with relation -> ⊆ A x A. Let (A, ->) be an ARS, A is a set, -> is a subset of Cartesian product of A x A.
-
+ 
 This can look like a lot of gibberish to a beginner, I know it did to me. So it helps to break down each aspect of the definition.
 
 **a set A**: a set can be defined in many ways, but commonly is seen to be a set of words or strings that can be produced by a group of letters or symbols. For example, a set A could be all the strings over {x, y, z, &, +}. This means that strings such as xxxyy, &+&xy, and yz++ could all be part of set A.

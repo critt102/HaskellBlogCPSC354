@@ -10,7 +10,7 @@ I think this is why I always confused them.
 
 An example of an Invariant is # of a's and an example of an Equivalence class is 3 a's. So you can see how I got confused.
 One of the first times I started to really grasp the difference between these two was for when I was studying for the midterm exam. A question on the practice exam asked me to describe the Equivalence classes of an ARS using an invariant.
-
+ 
 At this point, I already knew that [] was an Equivalence class, and that the invariant was (# of a's - # of b's) mod 3.
 This is when things started to click.
 

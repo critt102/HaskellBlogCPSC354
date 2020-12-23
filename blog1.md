@@ -39,4 +39,4 @@ Below is some example code and how it looks/functions in Haskell.
 >Prelude> a+b  
 >6  
 >Prelude> a-3  
->-1
+>-1 

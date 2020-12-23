@@ -3,7 +3,7 @@
 
 Whenever I am trying to learn how to code in a new language, I try to make sure I understand the basic grammar of the language. Jumping straight into a language and learning as you go is a decent way to learn, but I find I get hung up on the little things, such as how to write conditional statements. So over a few weeks learning Haskell, I did some research and compiled a list of basic Haskell Grammar. It has been very helpful to me as a reference when coding in Haskell.
 
-> - && - boolean *and*
+> - && - boolean *and* 
 > - || - boolean *or*
 > - == - tests equality
 > - /= - tests “is not equal to”

@@ -25,4 +25,4 @@ But learning by example was really useful. I used what I was provided, mixed wit
 Particularly in the third assignment, when we were working with a whole new programming language LambdaFun, I found myself getting things mixed up. I wanted to write in the formatting that I had used in past assignments,
 but I knew that it wouldn't work the same in this new language. But I think the benefit of learning Haskell is that it made me think outside of the box, and made it easier for my to see patterns in coding languages that allow me to pick it up quicker.
 
-All in all, this language was difficult for me to learn, but I believe it has helped me understand the fundamentals of a lot of coding languages I have learned in the past. And hopefully it will help me in the future with learning new languages.
+All in all, this language was difficult for me to learn, but I believe it has helped me understand the fundamentals of a lot of coding languages I have learned in the past. And hopefully it will help me in the future with learning new languages. 

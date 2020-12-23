@@ -44,6 +44,6 @@ Once you are in the correct folder, use "stack exec ghci" to start up Haskell. T
 >Prelude> :load file.hs  
 >[1 of 1] Compiling Main             ( file.hs, interpreted )  
 >Ok, one module loaded.  
->\*Main>
+>\*Main> 
 
 From here, you should be able to call information from the file, such as functions or variables. When these files are loaded, Haskell compiles them, just like when you compile any other program. So if the file fails to load, and it is not because you are in the wrong location, it is likely a compiling error. There are lots of different errors, and most of them have to be dealt with by fixing the code in the file itself.

@@ -5,7 +5,7 @@ When learning about Abstract Reduction Systems, I struggled to understand the di
 When talking about relations, it is said that
 
 > R ⊆ A x A
-
+ 
 Which means R (the relation) is a subset of the Cartesian Product A x A. So when we say
 
 > a R b

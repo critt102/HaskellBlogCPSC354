@@ -5,7 +5,7 @@
 
 *Consider the rewrite rules*
 
-> ab -> cc
+> ab -> cc 
 
 > ac -> bb
 
