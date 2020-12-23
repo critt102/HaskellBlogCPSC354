@@ -43,5 +43,7 @@ Using `<` and `>` works better here. If x < y is true and y < z is true, then x 
 Thinking of each of these relationships as a number of steps, I would sum these relationships as
 
 > Reflexive- I can take 0 steps
+
 > Symmetric- I can change direction
+
 > Transitive- I can take as many steps as I want
