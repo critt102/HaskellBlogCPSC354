@@ -21,7 +21,7 @@ An ARS has a set of rules that allows for reduction. These rules define how to c
 
 **A Normal Form** can also be defined by looking at its parts. Given an ARS (A, ->) and a ∈ A, if there exists no b such that (a, b) ∈ -> or that a->b, then a is the normal form.
 
-So if we look at the relation a->b, we can say a reduces to b. This is true when there is a possible reduction given a set of rules. The easiest way to understand this is to look at an example.
+So if we look at the relation a->b, we can say a reduces to b. This is true when there is a possible reduction given a set of rewrite rules. The easiest way to understand this is to look at an example.
 
 Using the set as defined above, where A is the set of all strings over  {x, y, z, &, +}, the rules are as follows:
 
