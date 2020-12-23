@@ -26,13 +26,17 @@ So if we look at the relation a->b, we can say a reduces to b. This is true when
 Using the set as defined above, where A is the set of all strings over  {x, y, z, &, +}, the rules are as follows:
 
 > yx -> xy
+
 > z+& -> &z
+
 > && ->
 
 From here, we can compute the normal form of *yx&z+&* as follows:
 
 >yx&z+& -> xy&z+& using the yx -> xy rule
+
 >xy&z+& -> xy&&z using the z+& -> &z rule
+
 >xy&&z -> xyz using the && ->   rule
 
-*xyz* is the normal form, because there exists no b such that a -> b. Or rather, there are no further reductions that can be made from the given set of rules. 
+*xyz* is the normal form, because there exists no b such that a -> b. Or rather, there are no further reductions that can be made from the given set of rules.
