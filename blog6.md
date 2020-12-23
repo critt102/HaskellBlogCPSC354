@@ -36,19 +36,25 @@ From here, the only rule that could be applied would be bc->aa
 
 Then the ac->bb rule
 
-> ac ac ac ac-> bb bb bb bb
+> ac ac ac ac -> bb bb bb bb
 
 Then back to the bc->aa rule
 
-> bc bc bc bc bc bc bc bc->aa aa aa aa aa aa aa aa
+> bc bc bc bc bc bc bc bc -> aa aa aa aa aa aa aa aa
 
 Following this looping pattern, I would then be able to make this:
 
 > bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb cc cc cc cc cc
 
+> ->
+
 > bc bc bc bc bc bc bc bc bc bc bb bb bb bb bb bb bb bb bb bb bb
 
+> ->
+
 > aa aa aa aa aa aa aa aa aa aa bb bb bb bb bb bb bb bb bb bb bb
+
+> ->
 
 > ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab bb
 
@@ -64,7 +70,11 @@ For example:
 
 > aaabbbcccc
 
+> ->
+
 > abababccc
+
+> ->
 
 > ccccccccc
 
