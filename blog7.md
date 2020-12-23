@@ -16,9 +16,9 @@ He goes on to say that Haskell is "much cleaner and more direct" compared to imp
 I know I struggled with learning this language, and I also struggled with setting it up on my computer, as I talked about in a previous blog.
 But despite its downfalls, Haskell was ranked number one of all coding languages for the following statements:
 
-“Learning this language significantly changed how I use other languages.”
+>“Learning this language significantly changed how I use other languages.”
 
-“Learning this language improved my ability as a programmer.”
+>“Learning this language improved my ability as a programmer.”
 
 When it comes to the first statement, I am not sure if it applies me. I have been coding in Haskell only for the past few months, but once I start coding in other languages again,
 I am sure I will get a sense of whether I agree with this statement. I can see where this statements is coming from though, as it feels like Haskell is almost a simplified or broken
