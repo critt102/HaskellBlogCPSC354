@@ -45,8 +45,11 @@ Then back to the bc->aa rule
 Following this looping pattern, I would then be able to make this:
 
 > bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb bb cc cc cc cc cc
+
 > bc bc bc bc bc bc bc bc bc bc bb bb bb bb bb bb bb bb bb bb bb
+
 > aa aa aa aa aa aa aa aa aa aa bb bb bb bb bb bb bb bb bb bb bb
+
 > ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab ab bb
 
 Now I can use the ab->cc rule, but upon doing this:
@@ -60,7 +63,9 @@ Because of the way the rules are structured, you need a pair ab, bc, or ac to ma
 For example:
 
 > aaabbbcccc
+
 > abababccc
+
 > ccccccccc
 
 Notice that I have an equal number of a and b, so I am able to reduce to only `c`s.
